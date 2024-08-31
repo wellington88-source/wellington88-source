@@ -1,4 +1,4 @@
-## Oiii eu sou a Wellington, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou o Wellington, criadoror de conteúdo de programação e tecnologia!
 
 🔍 Em busca de estágio | Estudante Análise e Desenvolvimento de Sistemas | Apaixonado por desenvolvimento web e inteligência artificial | Habilidades em Python, JavaScript e SQL | Focado em construir soluções inovadoras | Experiência em projetos acadêmicos 📓 | 💻 Em busca de novos desafios
 
